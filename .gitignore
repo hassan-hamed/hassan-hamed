@@ -1,0 +1,3 @@
+# to hide all files that have .tex extensions
+
+*.txt
