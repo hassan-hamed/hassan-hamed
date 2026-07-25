@@ -1,0 +1,46 @@
+[33mcommit 27449136b1c393ffad826c422bc72a8845f78120[m
+Author: Hassan <hassan.hamed.elsabagh@gmail.com>
+Date:   Sat Jul 25 02:50:15 2026 +0300
+
+    adding picture to stadge
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8e633cd[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,29 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m    <meta charset="UTF-8">[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m    <title>Learning Git & GitHub</title>[m
+[32m+[m
+[32m+[m[32m    <link rel="stylesheet" href="style.css">[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m
+[32m+[m[32m    <div class="container">[m
+[32m+[m
+[32m+[m[32m        <h1>Hassan & Youssef & Esraa</h1>[m
+[32m+[m
+[32m+[m[32m        <p id="text">[m
+[32m+[m[32m            This is my first project using Git and GitHub.[m
+[32m+[m[32m        </p>[m
+[32m+[m
+[32m+[m[32m        <button id="btn">Change Text</button>[m
+[32m+[m
+[32m+[m[32m        <button id="colorBtn">Change Background</button>[m
+[32m+[m
+[32m+[m[32m    </div>[m
+[32m+[m
+[32m+[m[32m    <script src="script.js"></script>[m
+[32m+[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/my_skills.png b/my_skills.png[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f631897[m
+Binary files /dev/null and b/my_skills.png differ
