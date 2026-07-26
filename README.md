@@ -6,6 +6,19 @@
  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="50%"/><br> 
 
 </div>
+<div align="center" >
+<div align="center" >
+
+**Code Cycle**
+
+</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+</div>
 
 </br>
 </br>
@@ -53,9 +66,10 @@
 </br>
 </br>
 
+
 # Contact Me :
 
-If you want to reach out to me about anything — a question, collaboration, or just to talk about Data Science — feel free to ping me 😉.
+**If you want to reach out to me about anything — a question, collaboration, or just to talk about Data Science — feel free to ping me** 😉.
 
 <p>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassan.hamed.mail@gmail.com" target="_blank">
@@ -77,4 +91,8 @@ If you want to reach out to me about anything — a question, collaboration, or 
 </p>
 
 *************
+
+ 
+</div>
+
 
