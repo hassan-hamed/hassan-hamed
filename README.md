@@ -1,4 +1,4 @@
-# Hi , I'm Hassan 👋
+# Hi , I'm Hassan 
 
 <div align="center">
 <!-- <img height="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtseXN4ZDVhZzdzMnlxdjdveDhvY2pueHZ6d203a2JodmZkOW5vcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwPRprvrP4Lm0/giphy.gif">
@@ -19,9 +19,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram : **[Hassan Hamed](https://t.me/hassan_hamed_h3)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-# About ME 💬 :
-
-### - I'm a Physics & Computer Science graduate , passionate about Data Science.
+#
 
 <img height="400" width="500" alt="GIF" align="right" src="icons/1936.gif">
 
