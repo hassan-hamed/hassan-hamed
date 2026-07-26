@@ -1,25 +1,34 @@
 const text = document.getElementById("text");
-const btn = document.getElementById("btn");
-const colorBtn = document.getElementById("colorBtn");
 
-btn.addEventListener("click", () => {
-    text.textContent = "Congratulations! JavaScript is working.";
-});
+document.getElementById("btn").onclick = function () {
+    text.innerHTML = "🎉 Git makes version control easy!";
+};
 
-colorBtn.addEventListener("click", () => {
+document.getElementById("colorBtn").onclick = function () {
 
     const colors = [
-        "#f5f5f5",
+        "#f4f4f4",
         "#dff9fb",
-        "#ffeaa7",
-        "#fab1a0",
-        "#55efc4",
-        "#74b9ff"
+        "#f6e58d",
+        "#ffbe76",
+        "#c7ecee",
+        "#dff9fb"
     ];
 
-    const randomColor =
-        colors[Math.floor(Math.random() * colors.length)];
+    const random = Math.floor(Math.random() * colors.length);
 
-    document.body.style.background = randomColor;
+    document.body.style.background = colors[random];
+};
 
-});
+document.getElementById("timeBtn").onclick = function () {
+
+    const now = new Date();
+
+    document.getElementById("time").innerHTML =
+        "🕒 " + now.toLocaleTimeString();
+};
+
+document.getElementById("welcomeBtn").onclick = function () {
+
+    alert("Welcome to Git & GitHub Project 🚀");
+};
