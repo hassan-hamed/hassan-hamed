@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-### - I'm a Physics & Computer Science graduate from Damietta University, Egypt, passionate about Data Science.
+### - I'm a Physics & Computer Science graduate , passionate about Data Science.
 
 <img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
