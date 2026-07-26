@@ -69,7 +69,7 @@
 
 # Contact Me :
 
-**If you want to reach out to me about anything — a question, collaboration, or just to talk about Data Science — feel free to ping me** 😉.
+**If you want to reach out to me about anything , a question, collaboration, or just to talk about Data Science , feel free to ping me** 😉.
 
 <p>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassan.hamed.mail@gmail.com" target="_blank">
