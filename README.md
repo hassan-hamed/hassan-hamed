@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif](https://www.pinterest.com/ideas/attack-on-titan-gif/959575089813">
 </div>
 </br>
 </br>
@@ -11,7 +11,7 @@
 
 ### - I'm a Physics & Computer Science graduate from Damietta University, Egypt, passionate about Data Science.
 
-<img height="400" width="500" alt="GIF" align="right" src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif](https://www.pinterest.com/ideas/attack-on-titan-gif/959575089813/)">
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Learning :
 - ✨ Python
