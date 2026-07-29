@@ -75,7 +75,7 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassan.hamed.mail@gmail.com" target="_blank">
  <img align="left" alt="Gmail" width="130" height="100" src="icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/hassan-hamed-789225318">
+<a href="https://www.linkedin.com/in/hassan-hamed-profile">
   <img align="left" alt="Linkedin" width="150" height="100" src="icons/linkedin.png" />
 </a>
 </p>
