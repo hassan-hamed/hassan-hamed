@@ -1,4 +1,5 @@
 # Hi , I'm Hassan 
+```« اللهم صلِّ وسلم على نبينا محمد » ﷺ ```
 
 <div align="center">
 <!-- <img height="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtseXN4ZDVhZzdzMnlxdjdveDhvY2pueHZ6d203a2JodmZkOW5vcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwPRprvrP4Lm0/giphy.gif">
@@ -64,7 +65,18 @@
 
 <p align="center">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="icons/Python-Dark.svg" alt="python" width="120" height="50">
+
+ <img src="icons/Python-Dark.svg" alt="python" width="80" height="50">
+ <img src="icons/Git.svg" alt="git" width="80" height="50">
+ <img src="icons/Github-Dark.svg" alt="github" width="80" height="50">
+ <img src="icons/GithubActions-Dark.svg" alt="GithubActions" width="80" height="50">
+ <img src="icons/Gmail-Dark.svg" alt="Gmail" width="80" height="50">
+ <img src="icons/LaTeX-Dark.svg" alt="LaTeX" width="80" height="50">
+ <img src="icons/Markdown-Dark.svg" alt="Markdown" width="80" height="50">
+ <img src="icons/SQLite.svg" alt="SQLite" width="80" height="50">
+ <img src="icons/VSCode-Dark.svg" alt="VSCode" width="80" height="50">
+ 
+</br>
 <img src="icons/datascience.png" alt="datascience" width="180" height="50">
 <img src="icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
 <img src="icons/bash.png" alt="bash" width="100" height="50">
