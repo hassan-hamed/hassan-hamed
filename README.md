@@ -70,11 +70,11 @@
  <img src="icons/Git.svg" alt="git" width="80" height="50">
  <img src="icons/Github-Dark.svg" alt="github" width="80" height="50">
  <img src="icons/GithubActions-Dark.svg" alt="GithubActions" width="80" height="50">
- <img src="icons/Gmail-Dark.svg" alt="Gmail" width="80" height="50">
  <img src="icons/LaTeX-Dark.svg" alt="LaTeX" width="80" height="50">
  <img src="icons/Markdown-Dark.svg" alt="Markdown" width="80" height="50">
  <img src="icons/SQLite.svg" alt="SQLite" width="80" height="50">
  <img src="icons/VSCode-Dark.svg" alt="VSCode" width="80" height="50">
+ <img src="icons/Gmail-Dark.svg" alt="Gmail" width="80" height="50">
  
 </br>
 <img src="icons/datascience.png" alt="datascience" width="180" height="50">
