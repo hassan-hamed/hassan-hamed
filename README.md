@@ -64,7 +64,7 @@
 
 <p align="center">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="icons/python.png" alt="python" width="120" height="50">
+<img src="icons/Python-Dark.svg" alt="python" width="120" height="50">
 <img src="icons/datascience.png" alt="datascience" width="180" height="50">
 <img src="icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
 <img src="icons/bash.png" alt="bash" width="100" height="50">
