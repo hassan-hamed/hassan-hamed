@@ -36,16 +36,23 @@
 
 <img height="400" width="500" alt="GIF" align="right" src="icons/1936.gif">
 
-#  I learned :
-##  **Python**
-### Data Analysis & Science
-- **NumPy** – numerical computing and arrays
-- **Pandas** – data manipulation and tabular data analysis
--  Data Science
--  Git & GitHub
+###  I learned :
+- ####  **DataBase \[ SQL \]**
+- ####  **Git & GitHub**
+- ####  **Python**
+   - ##### Data Analysis & Science
+     - **Python Fundamentals**
+     - **NumPy**
+     - **Pandas**
+     - **SQlite**
+   - ##### Visualization & Plotting
+     - **Matplotlib**
+     - **Seaborn**
+     - **Plotly**
 
 # Tools I use :
-
+-  VS Code
+-  Git
 -  LaTeX
 -  MS Office
 
