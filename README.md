@@ -36,16 +36,18 @@
 
 <img height="400" width="500" alt="GIF" align="right" src="icons/1936.gif">
 
-### - Learning :
+#  I learned :
+##  **Python**
+### Data Analysis & Science
+- **NumPy** – numerical computing and arrays
+- **Pandas** – data manipulation and tabular data analysis
+-  Data Science
+-  Git & GitHub
 
-- ✨ Python
-- ✨ Data Science
-- ✨ Git & GitHub
+# Tools I use :
 
-### - Tools I use :
-
-- ✨ LaTeX
-- ✨ MS Office
+-  LaTeX
+-  MS Office
 
 </br>
 </br>
