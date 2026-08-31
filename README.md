@@ -94,6 +94,10 @@ class Me(HH):
  <img align="left" alt="Gmail" width="125" height="75" src="icons/Gmail-Dark.svg" />
 </a>
  <!----------------------------------->
+<a href="https://www.facebook.com/Hassan.Hamed.Elsabagh">
+  <img align="left" alt="Linkedin" width="125" height="75" src="icons/Facebook.svg" />
+</a>
+ <!----------------------------------->
 <a href="https://www.linkedin.com/in/hassan-hamed-profile">
   <img align="left" alt="Linkedin" width="125" height="75" src="icons/LinkedIn.svg" />
 </a>
@@ -103,7 +107,7 @@ class Me(HH):
 </a>
  <!----------------------------------->
 <a href="https://x.com/hassan_hamed_x">
-  <img align="left" alt="Linkedin" width="125" height="75" src="icons/Twitter.svg" />
+  <img align="left" alt="Twitter" width="125" height="75" src="icons/Twitter.svg" />
 </a>
  <!----------------------------------->
 </p>
