@@ -87,7 +87,7 @@ class Me(HH):
  <!-------------------------------------->
  <img src="icons/SQLite.svg" alt="SQLite" width="80" height="50">
  <!-------------------------------------->
- <img src="icons/HTML5.svg" alt="HTML" width="80" height="50">
+ <img src="icons/HTML5.svg" alt="HTML" width="70" height="50">
  <!-------------------------------------->
  <img src="icons/SQL Developer.svg" alt="SQLDeveloper" width="80" height="50">
  <!-------------------------------------->
