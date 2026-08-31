@@ -1,5 +1,5 @@
-# Hi , I'm Hassan 
 ```« اللهم صلِّ وسلم على نبينا محمد » ﷺ ```
+# Hi , I'm Hassan 
 <!-----
 <div align="center" >
  <img src="icons/im-hassan-hamed.gif" alt="Workspace"  width="100%"/><br> 
@@ -35,10 +35,11 @@
 - <img src="icons/gifs/letterbox.gif" width="25" /> &nbsp; Find me on Telegram : **[Hassan Hamed](https://t.me/hassan_hamed_h3)**<br>
 - &nbsp;&nbsp;<img src="icons/gifs/lightning.gif" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact : Banging your head against a wall for one hour burns **150 calories**.<br>
 
+<!-------------------------------------------------------------------------------------------------------->
 
 </br>
 <!-- <img height="300" width="22%" alt="GIF" align="right" src="icons/l2.gif"> -->
-<!-------------------------------------------->
+<!-------------------------------------------------------------------------------------------------------->
 <!-- <img height="300" width="25%" alt="GIF" align="center" src="icons/L.gif"> -->
 <!-------------------------------------------->
 <!-- <img height="400" width="50%" alt="GIF" align="left" src="icons/killua.gif">
