@@ -94,20 +94,22 @@ class Me(HH):
  <img align="left" alt="Gmail" width="125" height="75" src="icons/Gmail-Dark.svg" />
 </a>
  <!----------------------------------->
-<a href="https://www.facebook.com/Hassan.Hamed.Elsabagh">
+ <!----------------------------------
+<a href="link here">
   <img align="left" alt="Linkedin" width="125" height="75" src="icons/Facebook.svg" />
 </a>
+ ->
  <!----------------------------------->
 <a href="https://www.linkedin.com/in/hassan-hamed-profile">
   <img align="left" alt="Linkedin" width="125" height="75" src="icons/LinkedIn.svg" />
 </a>
  <!----------------------------------->
-<a href="https://hassanhamedportofolio.kesug.com/?i=2">
-  <img align="left" alt="MY Web" width="125" height="75" src="icons/web-icon.svg" />
-</a>
- <!----------------------------------->
 <a href="https://x.com/hassan_hamed_x">
   <img align="left" alt="Twitter" width="125" height="75" src="icons/Twitter.svg" />
+</a>
+ <!----------------------------------->
+<a href="https://hassanhamedportofolio.kesug.com/?i=2">
+  <img align="left" alt="MY Web" width="125" height="75" src="icons/web-icon.svg" />
 </a>
  <!----------------------------------->
 </p>
