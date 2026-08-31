@@ -30,51 +30,36 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram : **[Hassan Hamed](https://t.me/hassan_hamed_h3)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+
+</br>
+<img height="400" width="500" alt="GIF" align="right" src="icons/1936.gif">
+</br>
+</br>
+</br>
+</br></br>
+</br></br>
+</br></br>
+</br>
+</br>
+
 ---
 ```python
 # I learned
 class Me(HH):
     learned = {
         "ProgramingLanguages": {"Python","Wolfram", "HTML"},
-        "Python Libraries": {"NumPy","Pandas", "SQlite", "Matplotlib", "Seaborn"},
-        "OtherLanguages": {"Markdown","Excel","LaTeX", "Word", "Bash", "Json"},
+        "Python Libraries": {"NumPy","Pandas", "SQlite", "Matplotlib", "Seaborn","Plotly"},
+        "OtherLanguages": {"Markdown","Excel","Word","LaTeX", "Bash", "Json"},
         "Database": {"Sqlite", "Ms-Sql"},
         "Editors": {"Vscode", "Overlaef","Wolfram Mathematica","DB Browser"},
         "Platforms": {"Windows"},
-        "OtherTools": {"Git", "Figma", "Photoshop", "Gimp", "Lightroom"},
+        "OtherTools": {"Git", "GitHub"},
     }
 ```
 
-<img height="400" width="500" alt="GIF" align="right" src="icons/1936.gif">
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 
-###  I learned :
-- ####  **DataBase \[ SQL \]**
-- ####  **Git & GitHub**
-- ####  **Python**
-   - ##### Data Analysis & Science
-     - **Python Fundamentals**
-     - **NumPy**
-     - **Pandas**
-     - **SQlite**
-   - ##### Visualization & Plotting
-     - **Matplotlib**
-     - **Seaborn**
-     - **Plotly**
----
-
-
-</br>
-</br>
-</br>
-
-# Languages & Tools 👨‍💻 🛠:
+# 🛠:
 
 <p align="center">
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
