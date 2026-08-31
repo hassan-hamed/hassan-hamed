@@ -91,11 +91,21 @@ class Me(HH):
 **Click To Go ↓**
 <p>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassan.hamed.mail@gmail.com" target="_blank">
- <img align="left" alt="Gmail" width="130" height="100" src="icons/gmail.png" />
+ <img align="left" alt="Gmail" width="150" height="100" src="icons/Gmail-Dark.svg" />
 </a>
+ <!----------------------------------->
 <a href="https://www.linkedin.com/in/hassan-hamed-profile">
-  <img align="left" alt="Linkedin" width="150" height="100" src="icons/linkedin.png" />
+  <img align="left" alt="Linkedin" width="150" height="100" src="icons/LinkedIn.svg" />
 </a>
+ <!----------------------------------->
+<a href="https://www.linkedin.com/in/hassan-hamed-profile">
+  <img align="left" alt="Linkedin" width="150" height="100" src="icons/LinkedIn.svg" />
+</a>
+ <!----------------------------------->
+<a href="https://www.linkedin.com/in/hassan-hamed-profile">
+  <img align="left" alt="Linkedin" width="150" height="100" src="icons/LinkedIn.svg" />
+</a>
+ <!----------------------------------->
 </p>
 
 </br>
@@ -108,7 +118,7 @@ class Me(HH):
   </a>
 </p>
 
-*************
+#
 
  
 </div>
