@@ -91,19 +91,19 @@ class Me(HH):
 **Click To Go ↓**
 <p>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassan.hamed.mail@gmail.com" target="_blank">
- <img align="left" alt="Gmail" width="150" height="100" src="icons/Gmail-Dark.svg" />
+ <img align="left" alt="Gmail" width="125" height="75" src="icons/Gmail-Dark.svg" />
 </a>
  <!----------------------------------->
 <a href="https://www.linkedin.com/in/hassan-hamed-profile">
-  <img align="left" alt="Linkedin" width="150" height="100" src="icons/LinkedIn.svg" />
+  <img align="left" alt="Linkedin" width="125" height="75" src="icons/LinkedIn.svg" />
 </a>
  <!----------------------------------->
-<a href="https://www.linkedin.com/in/hassan-hamed-profile">
-  <img align="left" alt="Linkedin" width="150" height="100" src="icons/LinkedIn.svg" />
+<a href="https://hassanhamedportofolio.kesug.com/?i=2">
+  <img align="left" alt="MY Web" width="125" height="75" src="icons/web-icon.svg" />
 </a>
  <!----------------------------------->
-<a href="https://www.linkedin.com/in/hassan-hamed-profile">
-  <img align="left" alt="Linkedin" width="150" height="100" src="icons/LinkedIn.svg" />
+<a href="https://x.com/hassan_hamed_x">
+  <img align="left" alt="Linkedin" width="125" height="75" src="icons/Twitter.svg" />
 </a>
  <!----------------------------------->
 </p>
