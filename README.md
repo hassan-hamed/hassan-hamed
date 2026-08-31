@@ -33,13 +33,13 @@
 ---
 ```python
 # I learned
-class learned(Me):
-    my_tools = {
+class Me(HH):
+    learned = {
         "ProgramingLanguages": {"Python","Wolfram", "HTML"},
-        "Python Libraries": {"NumPy","Pandas", "SQlite", "Matplotlib", "Seaborn", "Markdown"},
-        "OtherLanguages": {"Excel","LaTeX", "CSS", "Bash", "Json", "Markdown"},
-        "Database": {"Sqlite", "PostgreSql"},
-        "Editors": {"Vscode", "Overlaef","Wolfram Mathematica" },
+        "Python Libraries": {"NumPy","Pandas", "SQlite", "Matplotlib", "Seaborn"},
+        "OtherLanguages": {"Markdown","Excel","LaTeX", "Word", "Bash", "Json"},
+        "Database": {"Sqlite", "Ms-Sql"},
+        "Editors": {"Vscode", "Overlaef","Wolfram Mathematica","DB Browser"},
         "Platforms": {"Windows"},
         "OtherTools": {"Git", "Figma", "Photoshop", "Gimp", "Lightroom"},
     }
