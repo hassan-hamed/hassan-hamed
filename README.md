@@ -31,6 +31,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram : **[Hassan Hamed](https://t.me/hassan_hamed_h3)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
+#
 </br>
 <img height="400" width="500" alt="GIF" align="right" src="icons/1936.gif">
 </br>
@@ -42,7 +43,7 @@
 </br>
 </br>
 
----
+#
 ```python
 # I learned
 class Me(HH):
@@ -82,14 +83,12 @@ class Me(HH):
 </p>
 
 </br>
-</br>
-</br>
-
 
 # Contact Me :
 
 **If you want to reach out to me about anything , a question, collaboration, just to talk about Data Science , feel free to ping me** 😉.
 
+**Click To Go ↓**
 <p>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassan.hamed.mail@gmail.com" target="_blank">
  <img align="left" alt="Gmail" width="130" height="100" src="icons/gmail.png" />
