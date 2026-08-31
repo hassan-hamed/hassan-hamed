@@ -124,7 +124,7 @@ class Me(HH):
 </a>
  <!----------------------------------->
 <a href="https://x.com/hassan_hamed_x">
-  <img align="left" alt="Twitter" width="125" height="75" src="icons/Twitter.svg" />
+  <img align="left" alt="Twitter or X" width="125" height="75" src="icons/Twitter.svg" />
 </a>
  <!----------------------------------->
 <a href="https://hassanhamedportofolio.kesug.com/?i=2">
