@@ -41,17 +41,24 @@
 <!-------------------------------------------->
 <!-- <img height="300" width="25%" alt="GIF" align="center" src="icons/L.gif"> -->
 <!-------------------------------------------->
-<img height="400" width="50%" alt="GIF" align="left" src="icons/killua.gif">
+<!-- <img height="400" width="50%" alt="GIF" align="left" src="icons/killua.gif">
+<img height="500" width="50%" alt="GIF" align="right" src="icons/levi.gif"> -->
 <!-------------------------------------------->
-<img height="400" width="50%" alt="GIF" align="right" src="icons/levi.gif">
+<table>
+  <tr>
+    <td>
+      <img height="400" width="100%" alt="Killua GIF" src="icons/killua.gif">
+    </td>
+    <td>
+      <img height="400" width="100%" alt="Levi GIF" src="icons/levi.gif">
+    </td>
+  </tr>
+</table>
 <!-------------------------------------------->
 <!-- <img height="400" width="500" alt="GIF" align="right" src="icons/1936.gif"> -->
 <!-------------------------------------------->
 <!-- <img height="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtseXN4ZDVhZzdzMnlxdjdveDhvY2pueHZ6d203a2JodmZkOW5vcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwPRprvrP4Lm0/giphy.gif"> -->
 
-</br>
-
-#
 ```python
 # I learned
 class Me(HH):
