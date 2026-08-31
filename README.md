@@ -50,12 +50,19 @@
      - **Matplotlib**
      - **Seaborn**
      - **Plotly**
-
-# Tools I use :
--  VS Code
--  Git
--  LaTeX
--  MS Office
+---
+```python
+# tools_I_use organized
+class About(Me):
+    my_tools = {
+        "ProgramingLanguages": {"Dart", "Go", "Python", "Javascript", "Java", "c++"},
+        "OtherLanguages": {"HTML", "CSS", "Bash", "Json", "Markdown"},
+        "Database": {"Firebase", "Sqlite", "PostgreSql"},
+        "Editors": {"Vscode", "Xcode", "Sublime", "Neovim"},
+        "Platforms": {"Mac", "GNU/Linux", "Windows"},
+        "OtherTools": {"Git", "Figma", "Photoshop", "Gimp", "Lightroom"},
+    }
+```
 
 </br>
 </br>
