@@ -22,8 +22,6 @@
 </div>
 
 </br>
-</br>
-</br>
 
 # About ME 💬 :
 ### I'm a Physics & Computer Science graduate 🎓
@@ -32,10 +30,29 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram : **[Hassan Hamed](https://t.me/hassan_hamed_h3)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
-
-#
+---
+```python
+# I learned
+class learned(Me):
+    my_tools = {
+        "ProgramingLanguages": {"Python","Wolfram", "HTML"},
+        "Python Libraries": {"NumPy","Pandas", "SQlite", "Matplotlib", "Seaborn", "Markdown"},
+        "OtherLanguages": {"Excel","LaTeX", "CSS", "Bash", "Json", "Markdown"},
+        "Database": {"Sqlite", "PostgreSql"},
+        "Editors": {"Vscode", "Overlaef","Wolfram Mathematica" },
+        "Platforms": {"Windows"},
+        "OtherTools": {"Git", "Figma", "Photoshop", "Gimp", "Lightroom"},
+    }
+```
 
 <img height="400" width="500" alt="GIF" align="right" src="icons/1936.gif">
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 ###  I learned :
 - ####  **DataBase \[ SQL \]**
@@ -51,18 +68,7 @@
      - **Seaborn**
      - **Plotly**
 ---
-```python
-# tools_I_use organized
-class About(Me):
-    my_tools = {
-        "ProgramingLanguages": {"Dart", "Go", "Python", "Javascript", "Java", "c++"},
-        "OtherLanguages": {"HTML", "CSS", "Bash", "Json", "Markdown"},
-        "Database": {"Firebase", "Sqlite", "PostgreSql"},
-        "Editors": {"Vscode", "Xcode", "Sublime", "Neovim"},
-        "Platforms": {"Mac", "GNU/Linux", "Windows"},
-        "OtherTools": {"Git", "Figma", "Photoshop", "Gimp", "Lightroom"},
-    }
-```
+
 
 </br>
 </br>
