@@ -37,16 +37,18 @@
 
 #
 </br>
-<img height="400" width="500" alt="GIF" align="right" src="icons/1936.gif">
+<!-- <img height="300" width="22%" alt="GIF" align="right" src="icons/l2.gif"> -->
+<!-------------------------------------------->
+<!-- <img height="300" width="25%" alt="GIF" align="center" src="icons/L.gif"> -->
+<!-------------------------------------------->
+<img height="400" width="50%" alt="GIF" align="left" src="icons/killua.gif">
+<!-------------------------------------------->
+<img height="400" width="50%" alt="GIF" align="right" src="icons/levi.gif">
+<!-------------------------------------------->
+<!-- <img height="400" width="500" alt="GIF" align="right" src="icons/1936.gif"> -->
+<!-------------------------------------------->
 <!-- <img height="300" width="700" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGtseXN4ZDVhZzdzMnlxdjdveDhvY2pueHZ6d203a2JodmZkOW5vcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwPRprvrP4Lm0/giphy.gif"> -->
 
-</br>
-</br>
-</br>
-</br></br>
-</br></br>
-</br></br>
-</br>
 </br>
 
 #
