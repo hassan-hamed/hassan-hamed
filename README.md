@@ -88,11 +88,11 @@ class Me(HH):
  <img src="icons/LaTeX-Dark.svg" alt="LaTeX" width="80" height="50">
  <!-------------------------------------->
  <img src="icons/Markdown-Dark.svg" alt="Markdown" width="80" height="50">
- <!-------------------------------------->
+ <!-------------------------------------
  <img src="icons/VSCode-Dark.svg" alt="VSCode" width="80" height="50">
- <!-------------------------------------->
+--------------------------------------
  <img src="icons/Gmail-Dark.svg" alt="Gmail" width="80" height="50">
- <!-------------------------------------->
+----------------------------------->
 
 </br>
 <img src="icons/datascience.png" alt="datascience" width="180" height="50">
