@@ -137,7 +137,7 @@ class Me(HH):
 **If you want to reach out to me about anything , a question, collaboration, just to talk about Data Science , feel free to ping me** 😉.
 
 <!--- **Click To Go ↓** -->
-<strong><ins>Click To Go </ins></strong> ↓
+<strong><ins>Click</ins></strong> To Go ↓
 <p>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassan.hamed.mail@gmail.com" target="_blank">
  <img align="left" alt="Gmail" width="125" height="75" src="icons/Gmail-Dark.svg" />
